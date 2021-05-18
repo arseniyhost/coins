@@ -3,6 +3,7 @@
 ## How to check the project
 
 Just click in URL and you see that project
+### `URL`: arseniyhost.github.io/coins/
 
 ### `Technologies`
 
